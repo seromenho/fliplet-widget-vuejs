@@ -1,5 +1,5 @@
 {
-  "name": "vuejs",
+  "name": "Vue.js",
   "package": "com.fliplet.vuejs",
   "version": "1.0.0",
   "icon": "img/icon.jpeg",
@@ -9,9 +9,9 @@
   "html_tag": "span",
   "interface": {
     "dependencies": [
-      "fliplet-core",
-      "fliplet-studio-ui",
-      "vuejs:1.0.26"
+      "vue.js:2.0.3dev",
+      "vue-router:2.0.1",
+      "vue-resource:1.0.3"
     ],
     "assets": [
       "js/interface.js"
